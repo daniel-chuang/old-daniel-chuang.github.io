@@ -1,0 +1,16 @@
+Instructions for myself for when I inevitably forget stuff.
+
+Markdown Preview in VS Code (extension: Markdown Preview Enhanced):
+cmd-k then v -> side view
+cmd-shift-v -> full-sized preview.
+
+URLs:
+website -> https://daniel-chuang.github.io/
+github -> https://github.com/daniel-chuang/daniel-chuang.github.io
+markdown cheat-sheet -> https://guides.github.com/features/mastering-markdown/
+
+Git commands (lol):
+git add .
+git commit -m "message"
+git status           (to check on things)
+git push origin main
