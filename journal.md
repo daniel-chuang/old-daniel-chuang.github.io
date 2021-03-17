@@ -1,6 +1,5 @@
 ---
 title: Programming Journal
-layout: template
 filename: journal.md
 --- 
 #Programming Journal
