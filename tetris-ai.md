@@ -25,3 +25,4 @@ I didn't complete any of the above, because I ended up taking a very different c
 ![Git-it](images/git-it.png)
 
 ###### Github Pages Website
+You are currently on a website that I made using Github Pages and version control! I will constantly be using the concepts that I learned about version control not only for my actual project but also for this process journal. Therefore, this website is another example of my learning in source control that will continue to evolve as I progress in my project.
