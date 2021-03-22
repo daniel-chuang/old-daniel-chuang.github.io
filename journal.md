@@ -6,8 +6,8 @@ layout: default
 published: true
 order: 1
 ---
-#### March 18, 2021
 # Programming Journal
+#### March 18, 2021
 Filled out the Git-it related questions for the Beaverworks course.
 
 Started the visual Git branches guide for Beaverworks: [learngitbranching](https://learngitbranching.js.org/).
