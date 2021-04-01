@@ -24,5 +24,3 @@ Set up a Github Pages website. I’m gonna include this programming journal on t
 Gained some familiarity with terminal usage. In specific, I learned about swapping users (su) and using the super user (sudo). Also learned about deleting files and stuff with (rm).
 
 Spent some time learning how to potentially make an app using Kodika.io, which I found on the Github Student pack. The interface and concept behind the app is really nice, but it gets super annoying to use "constraints" to try to keep sizing consistent with different device screen sizes. I did this in order to see if I could potentially make an app for the [Avenues Investor Publication](https://www.avenues.finance).
-
-$$ 2+2 = 4
