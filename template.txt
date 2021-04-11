@@ -1,0 +1,26 @@
+From Ms. Garnier
+https://www.bulbapp.com/u/date-weekly-process-journal
+Use this template to capture your weekly work on both your programming and ethics presentation project. Be specific and thorough. These entries are the primary way that your progress against your stated project goals will be assessed. You will use the same template every week unless I specify otherwise. Please date each week's journal with the date that it was due, and turn the link in to Canvas for that week's journal assignment.
+
+PROGRAMMING PROJECT
+Part I: What did you plan to do this week?
+(Reiterate the goals you set yourself at the beginning of the week)
+
+Part II: What did you actually do?
+(Describe what you did, in detail, and provide concrete and specific evidence of your work. This can be in the form of screenshots of finished lessons in codecademy, links to finished code on repl.it, links to articles you read, research notes, photos of electronics prototypes, etc. Document any and all work you did. If I don't see it, you didn't do it.)
+
+Part III: Was what you actually did different than what you planned? If so, describe how and why? How will you adjust your goals going forward so that they fit more closely with what you actually do?
+(Answer here)
+
+Part IV: What did you learn or discover that you didn't know before this week? What, if anything, surprised you?
+(Answer here)
+
+Part V: What are you going to do next? Is there anything that is keeping you from next steps?
+(Answer here)
+
+ETHICS PROJECT
+(If you have already finished your paper and presentation, you can delete this section)
+1. What did you do to move your project forward with your partner this week?
+(Describe and provide concrete evidence)
+1. What are 1-2 things you can do next week to move the project forward with your partner?
+(Answer here)

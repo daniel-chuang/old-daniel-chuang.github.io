@@ -7,6 +7,62 @@ published: true
 order: 1
 ---
 # Tetris A.I Process Journal
+#### April 2 - April 9
+#### Tetris A.I Project
+##### Part I: What did you plan to do this week?
+I am planning to make a tictactoe artificial intelligence player to get some experience with all the concepts I will need for my tetris project.
+
+###### To-do List:
+- [X] Program a tictactoe game in Pygame
+- [X] Program an opponent for that tictactoe game.
+- [X] Make an imaging program that takes the screenshot of a tictactoe game image whenever "SPACE" or "ARROW KEYS" are pressed.
+- [X] Use the images that were recorded in the program to output an numpy array and the coordinates of the cursor in the imaging program.
+- [ ] (If time allows) Learn about machine learning.
+
+##### Part II: What did you actually do?
+I was able to do all of the goals above except for the last one (which I didn't plan to do anyway, I just wanted to set that goal for the future and in case I finished everything this week already). 
+
+I ended up spending a TON of time this week doing all of the tictactoe game programming (both the game and the opponent), as well as the imaging program. 
+
+I estimate that I spent around 10 hours on all things combined. There were tons of errors that I had to deal with and I had to mess around with the configuration of many different Python imaging packages. I originally used pyautogui and PIL for taking the screenshot, but it was taking screenshots really slow due to the way that MacOS works, so I had to do some really deep digging to find the mss package, which is much faster. I also had to figure out how to do key inputs for my imaging program to detect whenever a key is pressed, which brought me to the process of choosing between polling or broadcasting.
+
+Finally, after I figured everything out, I had to make it so that the OpenCV could read the image pixels and output a numpy array.
+
+Here is a video of everything in action: [https://youtu.be/p3TDLD6Ikd4](https://youtu.be/p3TDLD6Ikd4)
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://youtube.com/embed/p3TDLD6Ikd4" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+Here is the code: [https://github.com/daniel-chuang/tictactoe-ai](https://github.com/daniel-chuang/tictactoe-ai)
+
+##### Part III: Was what you actually did different than what you planned? If so, describe how and why? How will you adjust your goals going forward so that they fit more closely with what you actually do?
+The things that I did this week were the same as what I planned (this week).
+
+##### Part IV: What did you learn or discover that you didn't know before this week? What, if anything, surprised you?
+I learned that MacOS has a very weird screenshotting system, meaning that if I use a normal screenshot function from PIL or pyautogui, it will be INCREDIBLY slow.
+
+I also learned that I can run two Python programs simultaneously through terminal using os.system.
+
+I also learned how to use pynput, which broadcasts whenever a key is pressed. I'm pretty sure that pynput uses multithreading, so that's how that works.
+
+I am going to learn how to implement basic machine learning algorithms next week, most likely through the [Harvard CS50 Machine Learning Class](https://cs50.harvard.edu/ai/2020/), or through the [Codecademy](https://www.codecademy.com/).
+
+#### Ethics Project:
+##### What did you do to move your project forward with your partner this week?
+Final Position Paper Link: [https://docs.google.com/document/d/1VKxIJWV_r6x4_YkmF8lySWUZQmkHd-Vxrp9BFuAKbvg/edit](https://docs.google.com/document/d/1VKxIJWV_r6x4_YkmF8lySWUZQmkHd-Vxrp9BFuAKbvg/edit)
+
+Final Presentation Link: [https://docs.google.com/presentation/d/1qI1vRSgysdN-25U2J6AQAey1-67Kv6D_EJoZkeuDg6Y/edit?usp=sharing](https://docs.google.com/presentation/d/1qI1vRSgysdN-25U2J6AQAey1-67Kv6D_EJoZkeuDg6Y/edit?usp=sharing)
+
+We finished our project this week! We spent a long time making both the slides and the position paper, as well as researching the topic. I certainly learned a lot. I also used a darkweb dataset [https://www.kaggle.com/philipjames11/dark-net-marketplace-drug-data-agora-20142015](https://www.kaggle.com/philipjames11/dark-net-marketplace-drug-data-agora-20142015) to create a chart for our presentation!
+
+![Dark Web Listing Plot](images/darkWebItems.png)
+
+##### What are 1-2 things you can do next week to move the project forward with your partner?
+Not applicable, Kai and I already finished! I might keep on using dark web databases for practice making charts in the future though!
+
 #### March 23 - March 25
 ##### To-do List:
 - [X] Learn About OpenCV and Image Recognition
