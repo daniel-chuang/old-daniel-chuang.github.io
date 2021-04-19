@@ -7,6 +7,25 @@ published: true
 order: 1
 ---
 # Tetris A.I Process Journal
+#### April 9 - April 16
+##### Part I: What did you plan to do this week?
+I planned to learn more about artificial intelligence concepts, now that I have my basic imaging and tictactoe game set up. This week was more of a "learning" week, since I had just spent a lot of time creating something. 
+###### To-do List:
+- [X] Learn about artificial intelligence concepts
+
+##### Part II: What did you actually do?
+I ended up finding an awesome course called [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/).
+I watched the entire [first lesson](https://cs50.harvard.edu/ai/2020/weeks/0/), which was 2 hours long. It covered Depth First Searches, Breath First Searches, Greedy Best First Searches (and the heuristics required to run those), A* Searches initially. Then, it covered adversarial searching through the usage of minimax algorithm, with alpha beta pruning and depth limitation.
+I completed the courses' quiz and scored a perfect score: ![Week 0 Quiz](images/week0-quiz.png)
+I am currently beginning the project homework of this course.
+##### Part III: Was what you actually did different than what you planned? If so, describe how and why? How will you adjust your goals going forward so that they fit more closely with what you actually do?
+I didn't do anything different than what I planned, because my goals this week were quite loose and exploratory (in comparison to last week).
+##### Part IV: What did you learn or discover that you didn't know before this week? What, if anything, surprised you?
+I learned a ton about different search algorithms, and I realized that they were applicable not only to artificial intelligence but to programming data structures. Moreover, I learned how programming is a lot easier when ideas are presented well. The presenter in the lectures is very good at explaining concepts, and has an AMAZING slideshow with great visuals showing every single step so that I can follow along with ease.
+
+##### Note
+This week's process journal is a lot shorter and simpler than last weeks because I was just exploring a topic, rather than creating something. This week's acquire skills will be shown during the next week, when I complete my tictactoe artificial intelligence opponent.
+
 #### April 2 - April 9
 #### Tetris A.I Project
 ##### Part I: What did you plan to do this week?
