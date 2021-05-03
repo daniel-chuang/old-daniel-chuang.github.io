@@ -7,6 +7,29 @@ published: true
 order: 1
 ---
 # Tetris A.I Process Journal
+#### April 26 - May 2
+##### Part I: What did you plan to do this week?
+###### To-do List:
+- [X] Learn about AI and see if I should use that or algorithms for my final solution.
+
+##### Part II: What did you actually do?
+I watched two videos about Machine Learning. [One](https://www.youtube.com/watch?v=r0Ogt-q956I&ab_channel=ACMSIGGRAPH) of them was a lecture, and the [other](https://www.youtube.com/watch?v=aircAruvnKk&ab_channel=3Blue1Brown) was by 3blue1brown, a math Youtuber. This fulfilled my original goal to learn about whether or not I could use AI. I think that I can definitely use it for this type of project, but given the current timeframe, I probably can't accomplish it by the END of this term. We'll see.
+
+In learning about machine learning, I realized how important it was to use simple data visualizations to show the progress of a model, so I decided to learn more about that. I was already in progress self learning some R, and I saw that there was a section about Data Visalization, so I worked all the way up to that.
+
+I learned about data visualization through a codecademy course. This learning is important for my project because I will need to know how to visualize data of how my program is improving. I've been working through this course independantly, and the next step of this course will actually be about machine learning, so I plan to do that soon. Here's a screenshot of the syllabus (the progress bars prove that I've completed the work): ![Screenshot](images/codecademy-syllabus.png).
+
+Here's the content of the courses: ![Screenshot](images/introduction-syllabus.png)![Screenshot](images/intermediate-syllabus.png)
+
+I will most likely be using these graphing skills in showing the improvement of my tetris-ai (which is necessary since it is much more complex and takes more time than tic-tac-toe, meaning that I need to show whether or not it is improving over time).
+
+Here's an example graph that I made: ![Screenshot](images/bar-graph.png)
+##### Part III: Was what you actually did different than what you planned? If so, describe how and why? How will you adjust your goals going forward so that they fit more closely with what you actually do?
+I already talked about this before in Part III, and I talk about this in Part IV, but I originally had no idea that I would be needing to learn how to visualize data. I'm starting to realize that learning about something big is a bit like a roadtrip, with a main path to take, with minor sidetrips to learn about other skills that you originally thought weren't related.
+
+##### Part IV: What did you learn or discover that you didn't know before this week? What, if anything, surprised you?
+I didn't initially think at the beginning of the project that I would need to learn how to visualize data for this project, but I ended up doing so after seeing how helpful they were in a lot of AI based lectures. I guess I learned a lot about how a lot of skills and fields are interconnectable and applicable to others!
+
 #### April 9 - April 16
 ##### Part I: What did you plan to do this week?
 I planned to learn more about artificial intelligence concepts, now that I have my basic imaging and tictactoe game set up. This week was more of a "learning" week, since I had just spent a lot of time creating something. 
