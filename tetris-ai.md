@@ -7,6 +7,27 @@ published: true
 order: 1
 ---
 # Tetris A.I Process Journal
+Tetris AI Template
+
+#### May 3 - May 9
+##### Part I: What did you plan to do this week?
+###### To-do List:
+- [X] Decide whether or not to use machine learning or decision trees for final project. Do this by exploring machine learning (since I have already explored decision trees).
+- [ ] In order to explore machine learning, try to set up a reinforcement learning model using this course on udemy for space invaders: https://www.udemy.com/course/practical-reinforcement-learning/
+
+##### Part II: What did you actually do?
+I used the course linked in the to-do list, installing many machine learning and data science packages/frameworks/software:
+- tensorflow for machine learning
+- openai's gym (specically atari) to set up an environment
+- conda for environment control
+- jupyter notebooks for ipython.
+
+I already had the other packages installed. I had a TON of trouble with these installations though. I spent a lot of time trying to get tensorflow working, but it just wouldn't function properly. Apparently, I had mistyped the import function "pip install tensorflow==2.3.1 gym gym[atari] keras-rl2" to use a "1" instead of an "l" for the "keras-rl2" part. This seems like a really small and stupid mistake, but I spent so much time trying to figure out what the problem with my computer was. Once I got that to work, when I ran the gym environment, once it finished, it wouldn't close. After a lot of debugging, I realized that it was an iPython specific issue, so I had to research a way to run Python through a script in an interactive way. I also messed up the python version for my conda environment, so I had to restart that as well. ![](images/space-invaders-not-working.png)
+##### Part III: Was what you actually did different than what you planned? If so, describe how and why? How will you adjust your goals going forward so that they fit more closely with what you actually do?
+I talked a lot about this in the previous section, but I never expected to spend so much time with installation errors. There was so many issues that I had to deal with for choosing the right version of a package, which was especially difficult since the course assumed the usage of Windows whereas I used a Mac with the M1 chip, meaning that I need to download special versions of everything. In the future, I will be much more careful with making sure that I install the right version of things.
+##### Part IV: What did you learn or discover that you didn't know before this week? What, if anything, surprised you?
+I didn't know that MacM1 used a different assembly language (?) called arm64 rather than something called x86. I also didn't know that typefaces could be so important! If the letters in the course had a more prominent serif, I could've been able to better distinguish between "l" and "1". ![](images/1orL.png)
+
 #### April 26 - May 2
 ##### Part I: What did you plan to do this week?
 ###### To-do List:
