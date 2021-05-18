@@ -8,6 +8,18 @@ order: 1
 ---
 # Tetris A.I Process Journal
 Tetris AI Template
+#### April 9 - April 16
+##### Part I: What did you plan to do this week?
+###### To-do List:
+- [x] Get the machine learning test to work
+- [x] Start working on the final product
+
+##### Part II: What did you actually do?
+This week, I got the machine learning test to finally work. I still had to deal with many installation problems from last week. There was something weird where if I used pip install tensorflow, it wouldn't work, but then if I used conda install tensorflow, it did. It took me a LONG time to figure this out. After that, there was some error about one of the Neural network layers (Conv2D, about dimensionality), so I decided to abandon this idea and stick to solving the final product with a traditional tree traversal solution. 
+##### Part III: Was what you actually did different than what you planned? If so, describe how and why? How will you adjust your goals going forward so that they fit more closely with what you actually do?
+There wasn't too much that was different than I originally planned, I just had to deal with the fact that sometimes programming has faults and things that are beyond the scope of my current understanding (such as assembly language and installations). I've learned that there is so much for me to learn, and moving forward from this project, I hope that I can become less and less "clueless" and closer to the goal of being an advanced programmer.
+##### Part IV: What did you learn or discover that you didn't know before this week? What, if anything, surprised you?
+I talked about this in the previous paragraph. I was just particularly suprised this week and last week by how many layers of abstraction that a computer truly has. I look forward to learning more about that potentially next year or in college.
 
 #### May 3 - May 9
 ##### Part I: What did you plan to do this week?
