@@ -8,7 +8,7 @@ order: 1
 ---
 # Tetris A.I Process Journal
 Tetris AI Template
-#### April 9 - April 16
+#### May 10 - May 15
 ##### Part I: What did you plan to do this week?
 ###### To-do List:
 - [x] Get the machine learning test to work
